@@ -51,10 +51,6 @@ This simple calculator is developed using Java Swing, providing a graphical user
 2. Select the operation to perform.
 3. View the result on the display.
 
-## Screenshots
-
-![Calculator Screenshot](screenshots/calculator.png)
-
 ## Contributing
 
 Contributions are welcome! Feel free to open issues or submit pull requests to improve the functionality or fix bugs.
